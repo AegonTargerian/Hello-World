@@ -1,2 +1,3 @@
-# Hello-World
-This is my first web project.
+Hi All
+
+My name is Abdul Kadir, i am an M.Tech in CSE
